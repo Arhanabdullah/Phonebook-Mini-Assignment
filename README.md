@@ -1,6 +1,5 @@
 # Phonebook-Mini-Assignment
 
-# Phone Book Assignment
 
 This is a simple Phone Book application developed as part of an academic assignment. The application allows users to store, search, update, and delete contact information.
 
